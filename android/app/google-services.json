@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934856025794",
+    "project_id": "bar-app-8bc75",
+    "storage_bucket": "bar-app-8bc75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934856025794:android:15ae851496d11da5f23d5b",
+        "android_client_info": {
+          "package_name": "com.example.drink_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934856025794-v1ueetqpt7i8jjfmmp47eve2ju2k5ah8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFKDrMptSViJCeiZhRp1_WQ3vgf3465fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934856025794-v1ueetqpt7i8jjfmmp47eve2ju2k5ah8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
